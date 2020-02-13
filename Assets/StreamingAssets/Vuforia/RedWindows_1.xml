@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="RedWindows_1"/>
+</Tracking>
+
+<Assembly name="RedWindows_1s_assembly">
+<Part name="RedWindows_1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.310621 10.4735 71.6745" rotation="AD: 0.9721238839432512 0.6189957528356731 -0.6167017394683483 106.804">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

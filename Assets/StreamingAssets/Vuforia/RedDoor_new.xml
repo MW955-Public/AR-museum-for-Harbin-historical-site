@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="RedDoor_new"/>
+</Tracking>
+
+<Assembly name="RedDoor_news_assembly">
+<Part name="RedDoor_new" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.392065 9.95057 45.7932" rotation="AD: 0.999999994991674 0.01101517730465863 0.012229212168813562 95.9873">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

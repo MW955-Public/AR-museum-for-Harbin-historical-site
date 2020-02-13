@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="FrontDoor"/>
+</Tracking>
+
+<Assembly name="FrontDoors_assembly">
+<Part name="FrontDoor" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-8.9736 7.27823 59.1036" rotation="AD: 0.9991011877585542 -0.2562333390689225 0.24022289467619168 93.6577">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>

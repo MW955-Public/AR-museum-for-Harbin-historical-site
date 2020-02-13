@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ClosedDoor"/>
+</Tracking>
+
+<Assembly name="ClosedDoors_assembly">
+<Part name="ClosedDoor" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="1.94221 4.04454 132.108" rotation="AD: 0.9999999999518114 0.0033621514164247986 0.0038685768921922796 98.0134">
+
+</EntryPoint>
+
+</Assembly>
+</QCARConfig>
